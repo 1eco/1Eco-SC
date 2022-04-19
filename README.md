@@ -14,9 +14,12 @@
 #### 수령 자료 
 ```shell
 .
-├── SmartContract_1eco.sol
-├── SmartContract_1peco.sol
+├── README.md
+├── contracts
+│   ├── SmartContract_1eco.sol
+│   └── SmartContract_1peco.sol
 └── doc
     ├── [HEXAudit] ContractAudit_1ECO_v1.0_KR.pdf
     └── [HEXAudit] ContractAudit_1PECO_v1.0_KR.pdf
+
 ```
